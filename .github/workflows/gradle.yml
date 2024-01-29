@@ -27,7 +27,7 @@ jobs:
         jdk: [8, 11]
         experimental: [false]
         include:
-          - version: 17
+          - jdk: 17
             experimental: true
         
 
